@@ -1,4 +1,4 @@
-# ctf_cracker.py
+# Brutecracker.py
 
 A wrapper script around `john` (John the Ripper) and `hashcat` for CTF password
 cracking: hash lists and password-protected zip/7z/rar/pdf files and SSH keys.
